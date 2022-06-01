@@ -1,0 +1,31 @@
+[
+    
+    {
+        "nama" : "sandy",
+        "umur" : 26,
+        "lulus" : true,
+        "hobby" : [
+            "coding",
+            "gaming"
+        ],
+        "pembimbing" : {
+            "pembimbing1" : "doddy",
+            "pembimbing2" : "erik"
+        }
+    },
+    
+    {
+        "nama" : "pramuhdiana",
+        "umur" : 25,
+        "lulus" : false,
+        "hobby" : [
+            "coding",
+            "gaming",
+            "movie"
+        ],
+        "pembimbing" : {
+            "pembimbing1" : "diana",
+            "pembimbing2" : "erik"
+        }
+    }
+]
